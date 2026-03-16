@@ -1,0 +1,16 @@
+.fontcentrato{
+    text-align: center;
+    
+    color: #bd1c1c;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 550; /* grassetto */
+    font-size: 1.5rem; /* regolabile */
+    
+    
+}
+
+.table {
+    text-align:center;
+    padding:100px;
+}
+
